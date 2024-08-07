@@ -13,3 +13,40 @@ body, html {
 main {
     flex: 1;
 }
+
+/* Footer styling */
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    text-align: center;
+}
+
+footer .social-media a {
+    color: #000;
+}
+
+footer .social-media a:hover {
+    color: #007bff;
+}
+
+/* Additional styling for the welcome section */
+.welcome-message {
+    padding: 2rem 0;
+}
+
+.welcome-message h2 {
+    margin-bottom: 1rem;
+}
+
+.welcome-message p {
+    margin-bottom: 2rem;
+}
+
+/* Category section styling */
+.categories {
+    padding: 2rem 0;
+}
+
+.categories .list-group-item {
+    margin-bottom: 1rem;
+}
